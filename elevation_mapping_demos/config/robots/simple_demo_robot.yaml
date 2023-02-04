@@ -1,5 +1,5 @@
 input_sources:
-  ground_truth_cloud: # A name to identify the input source
+  ground_truth_cloud: # A name to identify the input source test push
     type: pointcloud # Supported types: pointcloud
     topic: /d400/depth/color/points
     queue_size: 1
